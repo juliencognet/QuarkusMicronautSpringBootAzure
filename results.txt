@@ -1,0 +1,7 @@
+
+LOG_ANALYTICS_WORKSPACE_CLIENT_ID=b1aa20bc-4e16-4221-8bdd-18ebd9dc9f5c
+LOG_ANALYTICS_WORKSPACE_CLIENT_SECRET=bg7h5FXIXo6KrwIFWALaAHqPjDr/TM1+FTU0UjNVgAd48YTD4yXwwvfqN23xQkMHhQ4SpNk9SGUD3QyAOR/8cw==
+REGISTRY_URL=crjavaruntimescognetj.azurecr.io
+QUARKUS_HOST=quarkus-app.bravecliff-948d8c46.eastus.azurecontainerapps.io
+MICRONAUT_HOST=micronaut-app.bravecliff-948d8c46.eastus.azurecontainerapps.io
+SPRING_HOST=springboot-app.bravecliff-948d8c46.eastus.azurecontainerapps.io
