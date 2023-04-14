@@ -5,3 +5,4 @@ REGISTRY_URL=crjavaruntimescognetj.azurecr.io
 QUARKUS_HOST=quarkus-app.bravecliff-948d8c46.eastus.azurecontainerapps.io
 MICRONAUT_HOST=micronaut-app.bravecliff-948d8c46.eastus.azurecontainerapps.io
 SPRING_HOST=springboot-app.bravecliff-948d8c46.eastus.azurecontainerapps.io
+ 
